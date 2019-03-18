@@ -24,4 +24,8 @@ https://www.blackhillsinfosec.com/ - Check the blog for webcasts and podcasts
 
 SEC 504 is a purple class. It includes Red (Offensive) and Blue (defensive) techniques.
 
+Conferences:
+
+www.wildwesthackinfest.com
+
 Day 1 - Blue
